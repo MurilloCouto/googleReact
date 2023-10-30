@@ -1,0 +1,32 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+}
+
+.footercss {
+    background-color: #F2F2F2;
+    height: 2rem;
+    text-align: left;
+    border-bottom: groove;
+    border-color: white;
+    display: flex;
+}
+
+.footercss p {
+    display: flex;
+    margin-left: 2rem;
+    margin-top: 0.4rem;
+    color: #707070;
+    font-size: 15px;
+}
+
+.p2 {
+    display: flex;
+    margin-left: 52rem;
+    padding-right: 5em;
+}
+
+.borda {
+    border-bottom: groove;
+    border-color: white;
+}

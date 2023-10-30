@@ -1,0 +1,30 @@
+.caixacss {
+    position:relative;
+}
+
+.caixacss input{
+    margin-top: 1rem;
+    width: 35rem;
+    height: 2.5rem;
+    border-radius: 25px;
+    border-style: groove ;
+    border-color: white;
+}
+
+.lupa {
+    position: absolute;
+    margin-left: -35rem;
+    margin-top: 1.5rem;
+}
+
+.teclado {
+    position: absolute;
+    margin-left: -5rem;
+    margin-top: 1.5rem;
+}
+
+.micro {
+    position: absolute;
+    margin-left: -2.4rem;
+    margin-top: 1.5rem;
+}

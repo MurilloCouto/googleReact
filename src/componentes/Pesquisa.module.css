@@ -1,0 +1,14 @@
+.pesquisacss {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.pesquisacss p{
+    font-size: 15px;
+    padding-top: 0.5rem;
+    background-color: #F8F8F8;
+    color: #7B7B7B;
+    width: 10rem;
+    height: 2rem;
+}

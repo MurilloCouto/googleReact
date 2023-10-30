@@ -1,0 +1,10 @@
+.verifycss {
+    margin-top: 0.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.verifycss p {
+    color: #1A0DBD;
+    font-size: 14px;
+}
