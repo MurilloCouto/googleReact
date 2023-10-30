@@ -19,7 +19,7 @@ Uma cópia da página do google apenas para treinar a criação e a formatação
 <hr>
 
 ### Está online? 📡
-SIM! Basta [clicar aqui](====) para visualizar o site que está hospedado nos servidores da Netlify.
+SIM! Basta [clicar aqui](https://google-react-gold.vercel.app/) para visualizar o site que está hospedado nos servidores da Vercel.
 <hr>
 
 by Murillo Couto<br>
